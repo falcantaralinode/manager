@@ -62,7 +62,7 @@
     "memoizee": "^0.4.14",
     "notistack": "^0.9.7",
     "novnc-node": "^0.5.3",
-    "patch-package": "^6.1.0",
+    "patch-package": "^8.0.1",
     "qrcode.react": "^0.8.0",
     "qs": "^6.6.0",
     "ramda": "~0.25.0",
